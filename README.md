@@ -69,11 +69,21 @@ Screenshots
 App Screenshots:
 Splash Screen: Branded entry point with app logo and tagline
 
+![IMG-20251022-WA0066](https://github.com/user-attachments/assets/000aef58-5423-4036-be59-167543c53454)
+
+
 Home Screen: Dashboard showing total menu items, preview, and navigation options
+
+![IMG-20251022-WA0065](https://github.com/user-attachments/assets/97bac0c0-2da6-415c-b11a-9ed90603c4d9)
+
 
 Add Menu Item Screen: Form with input fields and course selection modal
 
+![IMG-20251022-WA0064](https://github.com/user-attachments/assets/dd1f9539-16cc-4a32-bfdb-517563eb8a2c)
+
 Full Menu Screen: Complete menu view with filtering options
+
+IMG-20251022-WA0062
 
 Video Demo
 [YouTube Unlisted Link - To be added after recording]
